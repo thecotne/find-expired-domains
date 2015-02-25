@@ -1,0 +1,26 @@
+{
+  "name": "find-expired-domains",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^0.18.0",
+    "commander": "^2.6.0",
+    "fetch": "^0.3.6",
+    "line-by-line": "^0.1.3",
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thecotne/simple-date-picker.git"
+  },
+  "author": "cotne nazarashvili <cotne.nazarashvili@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thecotne/simple-date-picker/issues"
+  },
+  "homepage": "https://github.com/thecotne/simple-date-picker"
+}
